@@ -1,1 +1,1 @@
-# Yarik
+# Yaroslav Pushkarev
