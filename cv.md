@@ -4,15 +4,24 @@
 > +380963596847 |
 > [Linkedin](https://linkedin.com/username) |
 > Kremenchuk, Ukraine
----
-## Skills
 
+
+---
+## Information
+I want to become a good full stack developer
+
+## LANGUAGES
+- English
+
+## Skills
  - HTML
  - CSS
  - JavaScript
  - Git
  - Photoshop
- 
+## Education
+> Beetroot Academy
+> 
 ## Example of code
 ```
 let input = 'javascript is awesome';
