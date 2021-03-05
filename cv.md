@@ -25,22 +25,11 @@ I want to become a good full stack developer
 
 ## Example of code
 ```
-let input = 'javascript is awesome';
-let output = '';
-
-for (let i = 0; i < input.length;i++){
-	if(input[i] === 'a'){
-		output += 4
-	}else if (input[i] === 'e'){
-		output += 3
-	}else if (input[i] === 'i'){
-		output += 1
-	}else if (input[i] === 'o'){
-		output += 0
-	}else{
-		output += input[i]
-	}
-
-}
-console.log(output)
+const func = (num) => {  
+  if (num > 0) {  
+    return num - 1;  
+  }
+  return num + 1;  
+};  
 ```
+
