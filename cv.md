@@ -1,12 +1,11 @@
-Yaroslav Pushkarev
-===========
+# Yaroslav Pushkarev
+
 ---
 
-> [username@domain.com](mailto:username@domain.com) |
-> +01 1111111111 |
-> [website.me](https://website.me) |
+> [yarik2015@protonmail.com](mailto:yarik2015@protonmail.com) |
+> +380963596847 |
 > [Linkedin](https://linkedin.com/username) |
-> City, Country
+> Kremenchuk, Ukraine
 
 Education
 ---------
