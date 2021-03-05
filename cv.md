@@ -10,7 +10,7 @@
 Education
 ---------
 
-Sep 2010 - Jun 2014
+Sep 2011 - Jun 2014
 :   **Name of the Institution**
 
     - Degree
