@@ -19,12 +19,11 @@ I want to become a good full stack developer
  - JavaScript
  - Git
  - Photoshop
+ 
 ## Education
 - Beetroot Academy
----
 
 ## Example of code
-
 ```
 let input = 'javascript is awesome';
 let output = '';
