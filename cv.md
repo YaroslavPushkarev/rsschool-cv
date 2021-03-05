@@ -7,10 +7,11 @@
 > [Linkedin](https://linkedin.com/username) |
 > Kremenchuk, Ukraine
 
-Education
----------
+## Skills
 
-Sep 2011 - Jun 2014
-:   **Name of the Institution**
-
-    - Degree
+ - HTML
+ - CSS
+ - JavaScript
+ - Git
+ - Photoshop
+ 
