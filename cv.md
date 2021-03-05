@@ -13,6 +13,7 @@
  - Git
  - Photoshop
  
+## Example of code
 ```
 let input = 'javascript is awesome';
 let output = '';
