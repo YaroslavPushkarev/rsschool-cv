@@ -20,7 +20,7 @@ I want to become a good full stack developer
  - Git
  - Photoshop
 ## Education
- Beetroot Academy
+- Beetroot Academy
 ---
 
 ## Example of code
