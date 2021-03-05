@@ -30,7 +30,6 @@ for (let i = 0; i < 6; i++) {
 }
 console.log(randomString)
 ```
-
 ## Education
-Beetroot Academy
+-Beetroot Academy
 
