@@ -1,5 +1,5 @@
-# Yaroslav Pushkarev
-
+Yaroslav Pushkarev
+===========
 ---
 
 > [username@domain.com](mailto:username@domain.com) |
@@ -7,3 +7,11 @@
 > [website.me](https://website.me) |
 > [Linkedin](https://linkedin.com/username) |
 > City, Country
+
+Education
+---------
+
+Sep 2010 - Jun 2014
+:   **Name of the Institution**
+
+    - Degree
