@@ -1,5 +1,4 @@
 Yaroslav Pushkarev
-===========
 ---
 
 > [username@domain.com](mailto:username@domain.com) |
