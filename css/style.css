@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Shippori+Mincho&display=swap');
+
+:root{
+  --main-color:rgb(0, 174, 255);
+  --font-color: #fff;
+}
+
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+ul{
+  list-style: none;
+}
+a{
+  text-decoration: none;
+}
+h1{
+  color: #6b778d;
+}
+.section{
+  font-family: 'Shippori Mincho', serif;
+  background:#6b778d;
+}
+.container{
+  width: 100%;
+  max-width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.wrap{
+  display: flex;
+  padding:  20px 70px;
+  background:#6b778d;
+}
+
+.cv-photo{
+  height: 200px;
+  width: 100%;
+}
+.left-content{
+  background: var(--main-color);
+}
+.social__subtitle{
+  margin-bottom: 15px;
+}
+.social-content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: var(--font-color);
+  padding: 15px 15px;
+}
+.fab, 
+.fas{
+  font-size: 25px;
+  color: var(--main-color);
+}
+.social-links{
+  border-bottom: 2px solid var(--font-color);
+  margin-bottom: 15px;
+}
+.social-item{
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+.social-link{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background-color: #fff;
+  text-align: center;
+  transition: .6;
+  box-shadow: 0 5px 4px rgba(0,0,0,.5);
+  margin-right: 10px;
+ 
+}
+.social-link:hover{
+   transform: translate(0, -2px);
+}
+.title{
+  margin-bottom: 15px;
+  text-transform: uppercase;
+}
+.title-blue{
+  color: var(--main-color);
+}
+
+.skill-item{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 5px;
+}
+.skill-name{
+  width: 25%;
+  font-size: 14px;
+}
+.skill-progress{
+  width: 50%;
+  height: 5px;
+  background: #009fd9;
+  position: relative;
+}
+.skill-progress span{
+  position: absolute;
+  top:0;
+  left:0;
+  height: 100%;
+  background: var(--font-color);
+}
+.skill-per{
+  width: 15%;
+}
+
+.right-content{
+  background: cornsilk;
+  padding: 20px 20px;
+}
+
+.about{
+  border-bottom: 1px solid var(--main-color);
+  padding: 0 0 20px;
+}
